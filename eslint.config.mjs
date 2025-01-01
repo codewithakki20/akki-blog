@@ -1,5 +1,3 @@
-module.exports = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-};
+{
+  "extends": "next/core-web-vitals"
+}
